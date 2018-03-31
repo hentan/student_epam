@@ -1,0 +1,45 @@
+body{
+    margin-left: 100px;
+}
+
+p{
+    font-size: 150%;
+    font-weight: 700;
+    margin-bottom: -5px;
+}
+
+small {
+    color: red;
+}
+
+.field {
+    clear:both;
+    text-align:right;
+    line-height:25px;
+}
+
+label {
+    float:left;
+    padding-right:10px;
+}
+
+.main {
+    float:left;
+}
+
+input, textarea {
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+textarea{
+    padding-left: 20px;
+}
+
+#submit{
+    margin-top: 10px;
+    padding: 5px 30px;
+    font-family: Helvetica, serif;
+    box-shadow:  3px 3px 5px 0px rgba(50, 50, 50, 0.75);
+}
