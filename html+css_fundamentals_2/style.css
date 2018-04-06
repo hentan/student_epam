@@ -1,0 +1,71 @@
+.wrapper-logo {
+    display: inline-block;
+    float: left;
+}
+
+.wrapper-logo img {
+    height: 150px;
+}
+
+.search-and-contact{
+    display: inline-block;
+    float: right;
+}
+
+.wrapper-contact {
+    margin-bottom: 20px;
+}
+
+.wrapper-contact img {
+    padding-top: 50px;
+    height: 20px;
+    padding-right: 20px;
+}
+
+.menu {
+    display: block;
+}
+
+li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 25px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover{
+    color: darkgoldenrod;
+}
+
+
+
+.search img{
+    height: 25px; 
+}
+
+
+main img {
+    max-width: 100%;
+    margin-bottom: 30px;
+}
+
+input {
+    margin-left: 5px;
+}
+
+.about-smtng{
+    width: 440px;
+    display: inline-block;
+    float: left;
+    margin-left: 5%;
+}
+
+.about-smtng img{
+    width: 200px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
